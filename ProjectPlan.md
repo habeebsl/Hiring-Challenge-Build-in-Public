@@ -23,7 +23,7 @@
     - Connect Firebase for session management, user registration, and login.
         
         
-        ![Balance_Scale.drawio (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1386dd3-7f18-46ea-ad9c-296ff7b3e7ed/ce17d244-a561-4b4f-8aaf-443f26645102/Balance_Scale.drawio_(1).png)
+        ![Balance_Scale.drawio.png](https://viewer.diagrams.net/?border=0&tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Balance_Scale.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1VfywKA5dVA2R6W63jH4gW1ePXIuQ3w_r%26export%3Ddownload)
         
     
     - Create endpoints for fetching, updating, and saving game progress.
